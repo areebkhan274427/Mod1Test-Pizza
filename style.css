@@ -406,6 +406,7 @@ a{
     
     .about-head{
         margin-top: 70px;
+        margin-left: 150px;
         font-weight: 400;
         font-size: 60px;
         display: flex;
