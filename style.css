@@ -49,8 +49,8 @@ a{
 }
 
 .head-flex a{
-    font-size: 24px;
-    font-weight: 300;
+    font-size: 22px;
+    font-weight: lighter;
 }
 
 .icons{
@@ -334,7 +334,7 @@ a{
 
 .about-content div:first-child{
     font-weight: 400;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 40px;
     letter-spacing: 0.09em;
     
@@ -450,7 +450,7 @@ a{
     font-family: 'Ruda', sans-serif;
     margin-top: 30px;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 40px;
     letter-spacing: 0.09em;
     
@@ -465,6 +465,7 @@ a{
 .card{
     display: grid;
     grid-template-columns: auto auto;
+    align-items: center;
     margin-bottom: 50px;
     gap: 30px;
 }
@@ -477,12 +478,12 @@ a{
 .card-content div:first-child{
     color:#F2C94C;
     font-weight: 400;
-    font-size: 28px;
+    font-size: 20px;
 }
 
 .card-content div:last-child{
     font-weight: 400;
-    font-size: 20px;
+    font-size: 17px;
     line-height: 40px;
     letter-spacing: 0.09em;
 }
@@ -516,7 +517,7 @@ a{
 }
 .findus-content{
     font-weight: 400;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 40px;
     letter-spacing: 0.09em;
 }
